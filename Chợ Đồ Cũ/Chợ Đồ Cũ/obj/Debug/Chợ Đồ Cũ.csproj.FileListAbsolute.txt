@@ -1,0 +1,30 @@
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\bin\Debug\Chợ Đồ Cũ.exe.config
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\bin\Debug\Chợ Đồ Cũ.exe
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\bin\Debug\Chợ Đồ Cũ.pdb
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fLogin.resources
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.Properties.Resources.resources
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ Đồ Cũ.csproj.GenerateResource.cache
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ Đồ Cũ.exe
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ Đồ Cũ.pdb
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ Đồ Cũ.csprojAssemblyReference.cache
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fHome.resources
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fManageProduct.resources
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fPersonalInfomation.resources
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fPost.resources
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fRegister.resources
+C:\Users\majes\Desktop\Project Cho Tot Lang DH\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fSearch.resources
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\bin\Debug\Chợ Đồ Cũ.exe.config
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\bin\Debug\Chợ Đồ Cũ.exe
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\bin\Debug\Chợ Đồ Cũ.pdb
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ Đồ Cũ.csprojAssemblyReference.cache
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fHome.resources
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fLogin.resources
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fManageProduct.resources
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fPersonalInfomation.resources
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fPost.resources
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fRegister.resources
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.Properties.Resources.resources
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ_Đồ_Cũ.fSearch.resources
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ Đồ Cũ.csproj.GenerateResource.cache
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ Đồ Cũ.exe
+D:\Study\3st year\System analysis and design\Project Cho Tot Lang DH\Chợ đồ cũ-20200109T053834Z-001\Chợ đồ cũ\Chợ Đồ Cũ\Chợ Đồ Cũ\obj\Debug\Chợ Đồ Cũ.pdb
